@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-image: url("pizza.jpeg");
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+#btn{
+    color: rgb(0, 0, 0);
+}
